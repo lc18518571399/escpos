@@ -1,0 +1,7 @@
+{
+  "name": "EscPosDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
